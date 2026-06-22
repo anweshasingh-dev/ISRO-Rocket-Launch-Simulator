@@ -242,15 +242,4 @@ allows mission restart after reaching space.
 
 ---
 
-## Future Improvements
-
-- Sound effects
-- Booster separation
-- Camera zoom
-- Realistic smoke simulation
-- Multiple rocket types
-- Orbit insertion sequence
-
----
-
 _"Space Technology in the Service of Mankind"_
